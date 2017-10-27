@@ -1,8 +1,8 @@
 # hepsipay-go
  
-## Running the exmaple
+## Running the example
 
-To run this exmaple, from the root of this project:
+To run this example on windows, from the root of this project:
 
 ```sh
 go build
